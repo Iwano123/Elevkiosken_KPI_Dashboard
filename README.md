@@ -15,10 +15,10 @@ Analyserar försäljning per timme.
 ## StockStatus
 Visar lagerstatus per produkt.
 
-#Data för Elevkiosken
+# Data för Elevkiosken
 
-##SalesData
+## SalesData
 1 000 försäljningsposter.
 
-##Products
+## Products
 300 produkter och 30 leverantörer.
