@@ -1,4 +1,4 @@
-# elevkiosken_aggregations
+# Elevkiosken_KPI_Dashboard
 MongoDB project
 
 # Aggregeringspipelines för Elevkiosken
