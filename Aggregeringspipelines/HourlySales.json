@@ -1,0 +1,9 @@
+[
+  {
+    "$group": {
+      "_id": { "$hour": "$SaleTimestamp" },
+      "TotalSold": { "$sum": "$Quantity" }
+    }
+  },
+  { "$sort": { "_id": 1 } }
+]
